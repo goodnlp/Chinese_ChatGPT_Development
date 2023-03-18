@@ -1,2 +1,16 @@
 # Chinese_ChatGPT_Development
-This repo houses the development process of Chinese version ChatGPT.
+## 目录
+* 引言
+* 数据的准备
+* 模型编写和训练
+* 研发过程中的收获，总结和反思
+
+## 引言
+ChatGPT已经引发信息时代的又一轮革命，但是中文世界的模型发展却很滞后，本项目主要目的是在中文ChatGPT模型的研发做一些探索，这个项目也只是用于教学或者研究目的，由于计算资源和人力有限，并不能用于生产上线服务。
+
+## 数据的准备
+
+## 模型编写和训练
+
+
+## 研发过程中的收获，总结和反思
