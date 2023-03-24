@@ -9,3 +9,10 @@ to-do list in order to add more features to this work.
 (1) Mar 24 20223
 
 * Added Baidu pan link to the pretraining corpus, supervised training dataset.
+
+
+## To-to list
+
+* Add pretrained language model file in pytorch format (.pt)
+* Add training script in python format
+* 
