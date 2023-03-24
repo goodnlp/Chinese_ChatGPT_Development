@@ -6,7 +6,7 @@ to-do list in order to add more features to this work.
 
 ## Version 1.0 progress tracking
 * this is only a roughly estimation based on my planned actionable items for version 1.0, use it as a metric to track overall progress.
-* 10%
+* Mar 24 2023: 10%
 
 
 ## Dev logs start here
