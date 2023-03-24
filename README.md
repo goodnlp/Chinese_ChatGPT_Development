@@ -18,7 +18,7 @@ ChatGPT已经引发信息时代的又一轮革命，但是中文世界的模型�
 有监督训练是指，给定一个特定的输入，模型应该学习到正确的输出。比如情感分析任务，输入“我今天很高兴”，那对应的输出应该是积极情感。这里其实就是训练instruction GPT的过程了。
 
 * 分类任务数据集
-    ** 头条数据集，链接: https://pan.baidu.com/s/1jHnUpF_F94Z1f-IWFmWvDA?pwd=vdt4 提取码: vdt4 
+    * 头条数据集，链接: https://pan.baidu.com/s/1jHnUpF_F94Z1f-IWFmWvDA?pwd=vdt4 提取码: vdt4 
 
 
 
