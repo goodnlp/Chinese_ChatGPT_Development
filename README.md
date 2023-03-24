@@ -10,6 +10,11 @@ ChatGPT已经引发信息时代的又一轮革命，但是中文世界的模型�
 
 ## 数据的准备
 
+(1) 预训练语料：
+* 维基百科中文词条的所有数据（2019版），文件大小518.7M, 链接: https://pan.baidu.com/s/1eCE_Ez_fTA4AllkCds-x_Q?pwd=3242 提取码: 3242
+* 百科问答数据集（2019版本），文件大小650M,  链接: https://pan.baidu.com/s/1ZB-rX3bj0xtrp1t_yA2Xmw?pwd=2023 提取码: 2023
+
+
 ## 模型编写和训练
 
 
