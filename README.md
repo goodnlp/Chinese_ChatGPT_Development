@@ -13,17 +13,17 @@ ChatGPT已经引发信息时代的又一轮革命，但是中文世界的模型�
 
 (1) 预训练语料
 * 维基百科中文词条的所有数据（2019版），文件大小518.7M, 链接: https://pan.baidu.com/s/1eCE_Ez_fTA4AllkCds-x_Q?pwd=3242 提取码: 3242
-* 百科问答数据集（2019版本），文件大小650M,  链接: https://pan.baidu.com/s/1ZB-rX3bj0xtrp1t_yA2Xmw?pwd=2023 提取码: 2023
+* 百科问答数据集（2019版本），文件大小650M,  链接: https://pan.baidu.com/s/1odVtlPULLFZVNZmpk1m8rA 提取码: 9x2f
 
 (2) 有监督训练数据集 <br />
 有监督训练是指，给定一个特定的输入，模型应该学习到正确的输出。比如情感分析任务，输入“我今天很高兴”，那对应的输出应该是积极情感。这里其实就是训练instruction GPT的过程了。
 
 * 分类任务数据集
-    * 头条数据集，链接: https://pan.baidu.com/s/1jHnUpF_F94Z1f-IWFmWvDA?pwd=vdt4 提取码: vdt4 
+    * 头条数据集，链接: https://pan.baidu.com/s/1aSB6uYxImuF-KYy7hkU_qg 提取码: 86jr
     
 (3) 多轮对话数据集
 openai的chatGPT的一个明显能力是具有很强的感知上下文的能力，这就让交互更加流畅自然。这样的能力的获得肯定是要特定的数据来训练的，因此本项目也会囊括下面的数据集。
-*豆瓣多轮对话数据集，链接: https://pan.baidu.com/s/19s3Q4JROnxqVeJX7gnxEwA?pwd=2u9t 提取码: 2u9t
+* 链接: https://pan.baidu.com/s/167CYM7vSIEoWGcND1w4lTQ 提取码: 6tiv
 
 (4) 训练Reward model的数据集 <br />
 这是需要人工标注的，就是上述模型针对一个输入，输出一个句子，人工需要对其打分，分数从1到5分布，人工需要判断，越符合人的需要，打分越高。<br />
