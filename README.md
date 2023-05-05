@@ -32,13 +32,25 @@ openai的chatGPT的一个明显能力是具有很强的感知上下文的能力�
 由于这个项目的目的并不是“调教”出一个可以直接用于生产环境的模型，这个项目的目的在于把训练ChatGPT的过程走一遍，积累一些定性的经验，因此，最终标注的数据量不会多大。
 
 ## 模型编写和训练
-(1) 模型代码编写
+(1) 预训练
 * gpt预训练脚本在这里： https://github.com/goodnlp/Chinese_ChatGPT_Development/tree/main/code
 
 * 已经训练好的模型文件在这里： 链接: https://pan.baidu.com/s/19K2RNXccn2JQS-T7tAZ7zw 提取码: 35ih
 
-(2) 训练过程
-* 训练脚本的讲解
+(2) finetuning （in progress） <br/>
+
+这一步是指用现存的各类标注好的NLP数据集对finetune 预训练模型
+
+* 代码
+* 模型文件
+
+(3) reinforcement learing with human feedback （in progress）
+
+* human feedback是指人工对模型输出的回答进行打分（1-5）
+
+* actor_critic model
+
+* reward model
 
 
 ## 研发过程中的收获，总结和反思
