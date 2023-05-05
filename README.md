@@ -33,9 +33,9 @@ openai的chatGPT的一个明显能力是具有很强的感知上下文的能力�
 
 ## 模型编写和训练
 (1) 模型代码编写
-* gpt预训练脚本在这里： 
+* gpt预训练脚本在这里： https://github.com/goodnlp/Chinese_ChatGPT_Development/tree/main/code
 
-* 已经训练好的模型文件在这里： 
+* 已经训练好的模型文件在这里： 链接: https://pan.baidu.com/s/19K2RNXccn2JQS-T7tAZ7zw 提取码: 35ih
 
 (2) 训练过程
 * 训练脚本的讲解
